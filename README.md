@@ -27,6 +27,16 @@ Built while following the **Develop in Swift Tutorials**, this project demonstra
 - `.safeAreaInset` for overlay UI
 - Real-time UI updates with data changes
 
+
+
+## App Screenshots
+
+<img width="989" height="524" alt="Screenshot 2025-10-08 at 2 11 24 PM" src="https://github.com/user-attachments/assets/b0880e34-5288-466d-a861-ab6ecd1bcfc9" />
+
+<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2025-10-08 at 14 11 48" src="https://github.com/user-attachments/assets/6675917b-a160-4aba-ac67-f4de855084f0" />
+
+<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2025-10-08 at 14 12 23" src="https://github.com/user-attachments/assets/ff35c52e-b651-478f-8cfb-bfdc7907a368" />
+
 ## How to Use
 
 1. **View Birthdays**: See all saved birthdays sorted by date
